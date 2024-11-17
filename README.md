@@ -1,1 +1,3 @@
-# Proyecto4SistemaDeCobroGrupo
+# Sistema de cobro
+
+Este proyecto se centra en el desarrollo de un sistema de gestión para una heladería ficticia, diseñado para permitir a los usuarios registrar el inventario de productos y llevar un control eficiente de las ventas realizadas.
